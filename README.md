@@ -1,4 +1,5 @@
-### GALLERY APP
+### INSTAGRAM APP
+
 ### Done by 
 * Uwineza Nadine
 
